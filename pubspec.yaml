@@ -61,5 +61,7 @@ flutter:
         pluginClass: WebcryptoPlugin
       windows:
         pluginClass: WebcryptoPlugin
+      aurora:
+        pluginClass: WebcryptoPlugin
 topics:
  - crypto
